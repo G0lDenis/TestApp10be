@@ -1,0 +1,1 @@
+Welcome to the test app. You should make a new activity in app/com.example.testapp10be
